@@ -1,0 +1,35 @@
+body{
+
+	/*background: red;*/
+}
+.header
+{
+	background: #00bcd4;
+}
+.top-menu{
+	/*background: #fdffef;*/
+}
+.post
+{
+	/*background: #ff9800;*/
+
+}
+.footer
+{
+	background: #4caf50;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.page-title{
+
+	background: orange;
+}
+
+.design
+{
+	background: #8bc34a
+}
